@@ -1,0 +1,129 @@
+.A{
+    height: 100%;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+}
+.a{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    transition: all 0.5s;
+}
+.b{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    transition: all 0.5s;
+}
+.c{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    transition: all 0.5s;
+}
+.g{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    transition: all 0.5s;
+}
+.k{
+    background-color: orange;
+    width: 100px;
+    height: 100px;
+    transition: all 0.5s;
+}
+.l{
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    transition: all 0.5s;
+}
+.m{
+    background-color: brown;
+    width: 100px;
+    height: 100px;
+    transition: all 0.5s;
+}
+.n{
+    background-color: darkcyan;
+    width: 100px;
+    height: 100px;
+    transition: all 0.5s;
+}
+.o{
+    background-color: pink;
+    width: 100px;
+    height: 100px;
+    transition: all 0.5s;
+}
+.r{
+    background-color: maroon;
+    width: 100px;
+    height: 100px;
+    transition: all 0.5s;
+}
+.a:hover{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    margin: 150px 150px;
+
+}
+.b:hover{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    margin: 150px 150px;
+}
+.c:hover{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    margin: 150px 150px;
+}
+.g:hover{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    margin: 150px 150px;
+}
+.k:hover{
+    background-color: orange;
+    width: 100px;
+    height: 100px;
+    margin: 150px 150px;
+}
+.l:hover{
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    margin: 150px 150px;
+}
+.m:hover{
+    background-color: brown;
+    width: 100px;
+    height: 100px;
+    margin: 150px 150px;
+}
+.n:hover{
+    background-color: darkcyan;
+    width: 100px;
+    height: 100px;
+    margin: 150px 150px;
+}
+.o:hover{
+    background-color: pink;
+    width: 100px;
+    height: 100px;
+    margin: 150px 150px;
+}
+.r:hover{
+    background-color: maroon;
+    width: 100px;
+    height: 100px;
+    margin: 150px 150px;
+}
